@@ -10,7 +10,7 @@ My name is Harshit Verma i'm a Freshmen at KIIT [Kalinga Institute of Industrial
 
 # Achievements 🏆
 
-![Alt Text](<iframe src="https://giphy.com/embed/O7xsvQoMfiNVtKyAnJ" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-progress-emsystudio-O7xsvQoMfiNVtKyAnJ">via GIPHY</a></p>)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Technologies And Tools 🔧
 
