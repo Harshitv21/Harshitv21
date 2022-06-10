@@ -12,11 +12,11 @@ My name is Harshit Verma i'm a Freshmen at KIIT [Kalinga Institute of Industrial
 
 # Technologies And Tools 🔧
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitv21&layout=compact)](https://github.com/Harshitv21/Harshitv21/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitv21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Github Stats 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitv21&count_private=true&show_icons=true&theme=radical)](https://github.com/Harshitv21/Harshitv21/blob/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitv21&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Connect With Me 🔗✨
 
