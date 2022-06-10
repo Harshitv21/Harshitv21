@@ -17,7 +17,7 @@ My name is Harshit Verma i'm a Freshmen at KIIT [Kalinga Institute of Industrial
 # Connect With Me 🔗✨
 
 ### You can find me at, 
-[![LinkedIn](https://github.com/Harshitv21/README_CONTENT/blob/main/LinkedIn-0077B5.svg "LinkedIn")](https://www.linkedin.com/in/harshit-verma-b00804237/) 
+[![LinkedIn](https://github.com/Harshitv21/README_CONTENT/blob/main/LinkedIn-0077B5.svg "LinkedIn")]([https://www.linkedin.com/in/harshit-verma-b00804237/](https://raw.githubusercontent.com/Harshitv21/README_CONTENT/a40cca222cb19aa274069236f5bbacb4b74cd5ab/LinkedIn-0077B5.svg?token=AW53IDL2JIPAYRWT5HYBU2TCUL6JM)) 
 [![LeetCode](https://github.com/Harshitv21/README_CONTENT/blob/main/-LeetCode-FFA116.svg "LeetCode")](https://leetcode.com/Harshit_v21/) 
 [![Codeforces](https://github.com/Harshitv21/README_CONTENT/blob/main/Codeforces-445f9d.svg "Codeforces")](https://codeforces.com/profile/Harshit_v21)
 [![CodeChef](https://github.com/Harshitv21/README_CONTENT/blob/main/Codechef-%23B92B27.svg "CodeChef")](https://www.codechef.com/users/harshit_v21)
