@@ -21,3 +21,4 @@ My name is Harshit Verma i'm a Freshmen at KIIT [Kalinga Institute of Industrial
 [![LeetCode](https://github.com/Harshitv21/README_CONTENT/blob/main/-LeetCode-FFA116.svg "LeetCode")](https://leetcode.com/Harshit_v21/) 
 [![Codeforces](https://github.com/Harshitv21/README_CONTENT/blob/main/Codeforces-445f9d.svg "Codeforces")](https://codeforces.com/profile/Harshit_v21)
 [![CodeChef](https://github.com/Harshitv21/README_CONTENT/blob/main/Codechef-%23B92B27.svg "CodeChef")](https://www.codechef.com/users/harshit_v21)
+[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/harshit_v21)
