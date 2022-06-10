@@ -16,6 +16,8 @@ My name is Harshit Verma i'm a Freshmen at KIIT [Kalinga Institute of Industrial
 
 # Connect With Me 🔗✨
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitv21)](https://github.com/anuraghazra/github-readme-stats)
+
 ### You can find me at, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-verma-b00804237/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Harshit_v21/) 
