@@ -8,9 +8,11 @@ My name is Harshit Verma i'm a Freshmen at KIIT [Kalinga Institute of Industrial
 
 # My Recent Projects ! 👨‍🔬
 
+![working on it gif](https://media.giphy.com/media/26gJyrD7zsGpuPc0E/giphy.gif)
+
 # Achievements 🏆
 
-![Alt Text](https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif)
+![Still growing gif](https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif)
 
 # Technologies And Tools 🔧
 
