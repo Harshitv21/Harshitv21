@@ -15,6 +15,16 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 ## 🤔 What I'm up to?
 
+#### What i'm currently learning / doing?
+
+- Just like any aspiring developer aiming to get a job i am learning DSA and practicing questions on [leetcode](https://leetcode.com/) & [HackerRank](https://www.hackerrank.com/).
+- I am also aiming for GSOC 2024 and actively trying to contribute on open source projects.
+- Trying to be more "productive" by learning [neovim](https://github.com/neovim/neovim). 
+
+#### What projects i am working on?
+
+![](https://user-images.githubusercontent.com/74038190/240820708-9db4b864-a764-468f-9052-7bfa1bfe9a74.gif)
+
 ## 🧰 Languages and Tools 
 
 ### System of choice
@@ -55,6 +65,15 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 ![](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
+[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitv21&show_icons=true&theme=tokyonight)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitv21)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Harshitv21)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Github-Basics-Exercise)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Github-Workflow)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Github-Test-Repository)
+
 
 ## Connect with me!
 
@@ -85,5 +104,7 @@ Let's connect! Feel free to reach out to me through social media for collaborati
          <img alt="Instagram Badge" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="GIF 1" width="200" align="left">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="GIF 2" width="200" align="right">
 
----
+
