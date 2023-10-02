@@ -65,7 +65,7 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 ![](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
-[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitv21&show_icons=true&theme=tokyonight)]
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitv21&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitv21)
 
