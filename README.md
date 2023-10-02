@@ -18,4 +18,32 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 ## Connect with me!
 
+<!-- links for future reference ig
+![](https://custom-icon-badges.demolab.com/badge/-Leetcode-gold?style=for-the-badge&logo=LEETCODE&logoColor=black) 
+![](https://custom-icon-badges.demolab.com/badge/-HACKERRANK-green?style=for-the-badge&logo=HackerRank&logoColor=black) 
+![](https://custom-icon-badges.demolab.com/badge/-Codeforces-ivory?style=for-the-badge&logo=codeforces&logoColor=black) 
+![](https://custom-icon-badges.demolab.com/badge/-Codechef-darkgoldenrod?style=for-the-badge&logo=codechef&logoColor=black) 
+![](https://custom-icon-badges.demolab.com/badge/-geeksforgeeks-forestgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=black) 
+![](https://custom-icon-badges.demolab.com/badge/-linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=black) 
+![](https://custom-icon-badges.demolab.com/badge/-instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=black)
+-->
+
+<p align="left">
+      <a href="https://leetcode.com/">
+         <img alt="LeetCode Badge" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-Leetcode-gold?style=for-the-badge&logo=LEETCODE&logoColor=black"/></a> 
+      <a href="https://www.hackerrank.com/">
+         <img alt="HackerRank Badge" title="HackerRank" src="https://custom-icon-badges.demolab.com/badge/-HACKERRANK-green?style=for-the-badge&logo=HackerRank&logoColor=black"/></a> 
+      <a href="https://codeforces.com/">
+         <img alt="Codeforces Badge" title="Codeforces" src="https://custom-icon-badges.demolab.com/badge/-Codeforces-ivory?style=for-the-badge&logo=codeforces&logoColor=black"/></a>
+      <a href="https://www.codechef.com/">
+         <img alt="CodeChef Badge" title="CodeChef" src="https://custom-icon-badges.demolab.com/badge/-Codechef-darkgoldenrod?style=for-the-badge&logo=codechef&logoColor=black"/></a>
+      <a href="https://www.geeksforgeeks.org/">
+         <img alt="GFG Badge" title="GFG" src="https://custom-icon-badges.demolab.com/badge/-geeksforgeeks-forestgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/></a>
+      <a href="https://www.linkedin.com/feed/">
+         <img alt="linkedin Badge" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+      <a href="">
+         <img alt="Instagram Badge" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+</p>
+
+
 ---
