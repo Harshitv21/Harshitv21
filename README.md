@@ -50,6 +50,8 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+## 🗿 Github stats
+
 ## Connect with me!
 
 <!-- links for future reference ig
