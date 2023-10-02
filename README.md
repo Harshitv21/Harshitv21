@@ -52,6 +52,9 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 ## 🗿 Github stats
 
+![](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
+
+
 ## Connect with me!
 
 <!-- links for future reference ig
