@@ -1,4 +1,4 @@
-![https://github.com/Harshitv21/Harshitv21/blob/main/Assets/marioCoding.gif](https://github.com/Harshitv21/Harshitv21/blob/main/Assets/marioCoding.gif)
+![](https://github.com/Harshitv21/Harshitv21/blob/main/Assets/marioCoding.gif)
 
 # 👾 Harshit Verma
 
