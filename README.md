@@ -18,7 +18,6 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 #### What i'm currently learning / doing?
 
 - Just like any aspiring developer aiming to get a job i am learning DSA and practicing questions on [leetcode](https://leetcode.com/) & [HackerRank](https://www.hackerrank.com/).
-- I am also aiming for GSOC 2024 and actively trying to contribute on open source projects.
 - Trying to be more "productive" by learning [neovim](https://github.com/neovim/neovim). 
 
 #### What projects i am working on?
