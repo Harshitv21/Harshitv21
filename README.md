@@ -71,7 +71,7 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Harshitv21)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Github-Basics-Exercise)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Memory-Allocator-In-C)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Github-Test-Repository)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Virtual-Device-Simulation)
 
 ## Connect with me!
 
