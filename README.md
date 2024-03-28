@@ -92,7 +92,12 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 -->
 
 <p align="left">
-      <a href="https://leetcode.com/">
+      <a href="https://linktr.ee/haVc_">
+            <img 
+                  alt="Linktree Badge" 
+                  title="Linktree" 
+                  src="https://custom-icon-badges.demolab.com/badge/-Linktree%20for%20all%20my%20coding%20profiles%20%E2%9C%A8-darkgreen?style=for-the-badge&logo=LEETCODE&logoColor=black"/></a>
+<!--       <a href="https://leetcode.com/">
          <img alt="LeetCode Badge" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-Leetcode-gold?style=for-the-badge&logo=LEETCODE&logoColor=black"/></a> 
       <a href="https://www.hackerrank.com/">
          <img alt="HackerRank Badge" title="HackerRank" src="https://custom-icon-badges.demolab.com/badge/-HACKERRANK-green?style=for-the-badge&logo=HackerRank&logoColor=black"/></a> 
@@ -101,7 +106,7 @@ Let's connect! Feel free to reach out to me through social media for collaborati
       <a href="https://www.codechef.com/">
          <img alt="CodeChef Badge" title="CodeChef" src="https://custom-icon-badges.demolab.com/badge/-Codechef-darkgoldenrod?style=for-the-badge&logo=codechef&logoColor=black"/></a>
       <a href="https://www.geeksforgeeks.org/">
-         <img alt="GFG Badge" title="GFG" src="https://custom-icon-badges.demolab.com/badge/-geeksforgeeks-forestgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/></a>
+         <img alt="GFG Badge" title="GFG" src="https://custom-icon-badges.demolab.com/badge/-geeksforgeeks-forestgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/></a> -->
       <a href="https://www.linkedin.com/feed/">
          <img alt="linkedin Badge" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 </p>
