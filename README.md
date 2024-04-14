@@ -17,12 +17,26 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 #### What i'm currently learning / doing?
 
+<!-- -->
+<div align="center">
+
+![simpson going poof](https://user-images.githubusercontent.com/74038190/240820708-9db4b864-a764-468f-9052-7bfa1bfe9a74.gif) 
+</div>
+
 - Just like any aspiring developer aiming to get a job i am learning DSA and practicing questions on [leetcode](https://leetcode.com/) & [HackerRank](https://www.hackerrank.com/).
-- Trying to be more "productive" by learning [neovim](https://github.com/neovim/neovim). 
+- Trying to be more "productive" by learning [neovim](https://github.com/neovim/neovim).
 
 #### What projects i am working on?
 
-![](https://user-images.githubusercontent.com/74038190/240820708-9db4b864-a764-468f-9052-7bfa1bfe9a74.gif)
+<!-- -->
+<div align="center">
+      
+![not doing anything](https://github.com/Harshitv21/Harshitv21/assets/96187405/550695a8-8430-4a03-a36c-bd8d378897c2)
+</div>
+
+- Developing a [Pokemon API](https://github.com/Harshitv21/Pokemon-API) using Cheerio and MongoDB.
+- Implementing [scheduling algorithm](https://github.com/Harshitv21/Scheduling-Algorithm-Solver) solver for all commonly used algorithms in Operating System.
+- [Virtual Device Simulation](https://github.com/Harshitv21/Virtual-Device-Simulation) ...still figuring out what am i doing here.
 
 ## 🧰 Languages and Tools 
 
@@ -68,14 +82,24 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 ## 🗿 Github stats
 
-![](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
+<!-- -->
+<div align="center">
+      
+![Data!](https://github.com/Harshitv21/Harshitv21/assets/96187405/31369732-411e-4674-bc2d-38b0181961b1)
+</div>
+
+### Commits & Contributions 
 
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitv21&show_icons=true&theme=tokyonight)
 
+### Top languages used
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitv21)
 
+### Some of my highlighted work!
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Scheduling-Algorithm-Solver)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Hermes-Trails)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Pokemon-API)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Memory-Allocator-In-C)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitv21&repo=Virtual-Device-Simulation)
 
@@ -92,12 +116,15 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 -->
 
 <p align="left">
+<!-- 
       <a href="https://linktr.ee/haVc_">
             <img 
                   alt="Linktree Badge" 
                   title="Linktree" 
                   src="https://custom-icon-badges.demolab.com/badge/-Linktree%20for%20all%20my%20coding%20profiles%20%E2%9C%A8-darkgreen?style=for-the-badge&logo=LEETCODE&logoColor=black"/></a>
-<!--       <a href="https://leetcode.com/">
+-->
+<!--       
+      <a href="https://leetcode.com/">
          <img alt="LeetCode Badge" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-Leetcode-gold?style=for-the-badge&logo=LEETCODE&logoColor=black"/></a> 
       <a href="https://www.hackerrank.com/">
          <img alt="HackerRank Badge" title="HackerRank" src="https://custom-icon-badges.demolab.com/badge/-HACKERRANK-green?style=for-the-badge&logo=HackerRank&logoColor=black"/></a> 
