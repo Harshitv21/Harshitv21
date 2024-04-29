@@ -36,7 +36,6 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 - Developing a [Pokemon API](https://github.com/Harshitv21/Pokemon-API) using Cheerio and MongoDB.
 - Implementing [scheduling algorithm](https://github.com/Harshitv21/Scheduling-Algorithm-Solver) solver for all commonly used algorithms in Operating System.
-- [Virtual Device Simulation](https://github.com/Harshitv21/Virtual-Device-Simulation) ...still figuring out what am i doing here.
 
 ## 🧰 Languages and Tools 
 
