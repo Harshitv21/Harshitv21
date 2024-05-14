@@ -116,7 +116,7 @@ Let's connect! Feel free to reach out to me through social media for collaborati
 
 <p align="left">
 <!-- 
-      <a href="https://linktr.ee/haVc_">
+      <a href="https://linktr.ee/">
             <img 
                   alt="Linktree Badge" 
                   title="Linktree" 
@@ -133,8 +133,8 @@ Let's connect! Feel free to reach out to me through social media for collaborati
          <img alt="CodeChef Badge" title="CodeChef" src="https://custom-icon-badges.demolab.com/badge/-Codechef-darkgoldenrod?style=for-the-badge&logo=codechef&logoColor=black"/></a>
       <a href="https://www.geeksforgeeks.org/">
          <img alt="GFG Badge" title="GFG" src="https://custom-icon-badges.demolab.com/badge/-geeksforgeeks-forestgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/></a> -->
-      <a href="https://www.linkedin.com/feed/">
-         <img alt="linkedin Badge" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+      <a href="https://www.linkedin.com/in/harshitkverma/">
+         <img alt="linkedin Badge" title="linkedin" target="_blank" src="https://custom-icon-badges.demolab.com/badge/-linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="GIF 1" width="200" align="left">
